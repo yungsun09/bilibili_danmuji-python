@@ -1,0 +1,7 @@
+*.pyc
+*.json
+*.jpg
+auth.py
+__pycache__
+*.log
+.idea
